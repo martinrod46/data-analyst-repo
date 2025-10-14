@@ -1,5 +1,5 @@
 
-# .Example Repositoty
+# Example Repository
 
 This is a sample repo! Hello fucking World!
 
